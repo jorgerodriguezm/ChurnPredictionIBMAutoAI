@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/jorgerodriguezm/ChurnPredictionIBMAutoAI/blob/main/Assets/banner.png)
 
 ## About this Repository
 
@@ -8,7 +8,7 @@ The goal of this repository is to use the data provided by SONDA to implement a 
 
 ### Model in this Repository:
 
-- [Churn Prection Model - IBM AutoAI]()
+- [Churn Prection Model - IBM AutoAI](https://github.com/jorgerodriguezm/ChurnPredictionIBMAutoAI/blob/main/Model/Sonda%20Churn%20Prediction%20Modelo%20Final%20-%20P3%20Snap%20Logistic%20Regression%200.633.ipynb)
 
 ## Challenge 05 | SONDA
 
