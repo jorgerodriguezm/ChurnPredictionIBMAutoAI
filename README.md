@@ -10,6 +10,10 @@ The goal of this repository is to use the data provided by SONDA to implement a 
 
 - [Churn Prection Model - IBM AutoAI](https://github.com/jorgerodriguezm/ChurnPredictionIBMAutoAI/blob/main/Model/Sonda%20Churn%20Prediction%20Modelo%20Final%20-%20P3%20Snap%20Logistic%20Regression%200.633.ipynb)
 
+### Certificate
+
+![](https://github.com/jorgerodriguezm/ChurnPredictionIBMAutoAI/blob/main/Assets/Certificado_Desafio%205.png)
+
 ## Challenge 05 | SONDA
 
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
